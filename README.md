@@ -26,3 +26,6 @@ As a consequence of renaming notes, links to images and other notes break during
 
 ## After
 ![After](notion2trilium.png)
+
+# Credits:
+- Thank you Szymex for helping with the hash stripping

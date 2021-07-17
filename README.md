@@ -13,6 +13,8 @@ As a consequence of renaming notes, links to images and other notes break during
 4. Download `notion2trilium.sh` from this repo and place it next to the `Notion-Export` folder
 5. From a terminal run `chmod +x ./notion2trilium.sh` and `./notion2trilium.sh`
 6. Wait for the conversion process to finish. (Might take 5-10 minutes depending on the size of your Notion export)
+7. When the script if finished `zip` up the `Notion-Export` folder.
+8. Import the resulting `Notion-Export.zip` into Trilium
 
 
 # Notes:
